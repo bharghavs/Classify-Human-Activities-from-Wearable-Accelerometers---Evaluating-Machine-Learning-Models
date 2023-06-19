@@ -1,0 +1,1 @@
+# Classify-Human-Activities-from-Wearable-Accelerometers---Evaluating-Machine-Learning-Models
